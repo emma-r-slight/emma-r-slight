@@ -3,7 +3,7 @@
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-777777?logo=react&logoColor=white&style=for-the-badge" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-777777?logo=javascript&logoColor=white&style=for-the-badge" />
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-77777?logo=html5&logoColor=white&style=for-the-badge" />
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-777777?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="Css" src="https://img.shields.io/badge/CSS-777777?logo=css3&logoColor=white&style=for-the-badge" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.JS-777777?logo=node.js&logoColor=white&style=for-the-badge" />
   <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-777777?logo=gatsby&logoColor=white&style=for-the-badge" />
