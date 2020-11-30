@@ -1,4 +1,4 @@
-<img src="./banner.png"/>
+![Emma.s title banner](https://github.com/emma-r-slight/emma-r-slight/blob/main/Banner.png "Emma.S Web Developer")
 
 <p align="center"> <a href="https://twitter.com/emmaslight" target="blank"><img src="https://img.shields.io/twitter/follow/emmaslight?logo=twitter&style=for-the-badge" alt="emmaslight" /></a> </p>
 
