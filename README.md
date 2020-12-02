@@ -10,4 +10,4 @@
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emma-r-slight&show_icons=true&locale=en&hide=stars&count_private=true&bg_color=001332&title_color=FF5280&text_color=DAD836&icon_color=E307C1" alt="emma-r-slight" /></p>
+<p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=emma-r-slight&show_icons=true&locale=en&hide=stars&count_private=true&bg_color=001332&title_color=FF5280&text_color=DAD836&icon_color=E307C1" alt="emma-r-slight" /></p>
