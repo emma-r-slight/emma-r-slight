@@ -1,4 +1,4 @@
-![Emma.s title banner](https://github.com/emma-r-slight/emma-r-slight/blob/main/Banner.png "Emma.S Web Developer")
+<img src="./banner2.png"/>
 
 <p align="center"> <a href="https://twitter.com/emmaslight" target="blank"><img src="https://img.shields.io/twitter/follow/emmaslight?logo=twitter&style=for-the-badge" alt="emmaslight" /></a> </p>
 
@@ -10,4 +10,4 @@
 
 ---
 
-<p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=emma-r-slight&show_icons=true&locale=en&hide=stars&count_private=true&bg_color=001332&title_color=FF5280&text_color=DAD836&icon_color=E307C1" alt="emma-r-slight" /></p>
+<p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=emma-r-slight&show_icons=true&locale=en&hide=stars&count_private=true&bg_color=001332&title_color=E307C1&text_color=DAD836&icon_color=FF5280" alt="emma-r-slight" /></p>
