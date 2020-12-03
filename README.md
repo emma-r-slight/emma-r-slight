@@ -1,4 +1,4 @@
-<img src="./banner2.png"/>
+<img src="./Banner2.png"/>
 
 <p align="center"> <a href="https://twitter.com/emmaslight" target="blank"><img src="https://img.shields.io/twitter/follow/emmaslight?logo=twitter&style=for-the-badge" alt="emmaslight" /></a> </p>
 
