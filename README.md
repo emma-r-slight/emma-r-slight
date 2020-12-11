@@ -1,6 +1,6 @@
 <img src="./hero.gif" alt="an animation of a logo appearing from both sides of the screen and a line animation of the word Emma S "/>
 
-<p align="center"> <a href="https://twitter.com/emmaslight" target="blank"><img src="https://img.shields.io/twitter/follow/emmaslight?logo=twitter&style=for-the-badge" alt="emmaslight" /></a> </p>
+<p align="center"> <a href="https://twitter.com/SlightEmma" target="blank"><img src="https://img.shields.io/twitter/follow/SlightEmma?logo=twitter&style=for-the-badge" alt="emmaslight" /></a> </p>
 
 ---
 
